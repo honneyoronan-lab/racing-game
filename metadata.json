@@ -1,0 +1,6 @@
+{
+  "name": "Mini Racer Mobile",
+  "description": "Fast-paced arcade mobile traffic dodger featuring high-speed lane switching, nitro boost, sound synthesis, custom vehicles, and responsive touch and keyboard controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
